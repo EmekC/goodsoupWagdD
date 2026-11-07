@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.1",
+	"FriendlyName": "goodsoup",
+	"Description": "Shows the hunger, thirst and buffs of a soup in the interaction prompt when you look at a pot.",
+	"Category": "UGC",
+	"CreatedBy": "DezionDev",
+	"CreatedByURL": "https://mod.io/g/abiotic-factor/m/good-soup",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://mod.io/g/abiotic-factor/m/good-soup",
+	"CanContainContent": true,
+	"NoCode": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
